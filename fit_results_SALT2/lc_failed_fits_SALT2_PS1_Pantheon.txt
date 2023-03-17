@@ -1,0 +1,2 @@
+SN 520023 fit returns NaN
+ndof 0 for SN550005
