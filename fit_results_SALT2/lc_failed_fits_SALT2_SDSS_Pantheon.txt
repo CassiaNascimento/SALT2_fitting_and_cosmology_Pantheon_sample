@@ -1,5 +1,0 @@
-ndof 0 for SN18721
-SN 18835 fit returns NaN
-SN 19353 fit returns NaN
-SN 17258 fit returns NaN
-File not found for SN 2008050File not found for SN 2008051
